@@ -1,10 +1,10 @@
 function Home() {
   return (
     <h1>
-      PROPÓSITO \n \n \n
-      Ajudar missionários
+      PROPÓSITO<br />
+      Ajudar missionários<br />
 
-      PÚBLICO-ALVO
+      PÚBLICO-ALVO<br/>
       Pessoas que gostem de tecnologia e que estejam dispostas a ajudar a propagar o puro evangelho.
     </h1>
   );
