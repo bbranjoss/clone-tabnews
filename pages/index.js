@@ -1,7 +1,7 @@
 function Home() {
   return (
     <h1>
-      PROPÓSITO\n\n
+      PROPÓSITO \n \n \n
       Ajudar missionários
 
       PÚBLICO-ALVO
