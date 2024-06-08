@@ -1,9 +1,11 @@
 function Home() {
   return (
     <h1>
-      Fala minha Tutuquinha! Eu te amo! To aprendendo umas coisas novas aqui e
-      dediquei esta primeira versão pra você!!! ;)
-      Novo Conteúdo!
+      PROPÓSITO
+      Ajudar missionários
+
+      PÚBLICO-ALVO
+      Pessoas que gostem de tecnologia e que estejam dispostas a ajudar a propagar o puro evangelho.
     </h1>
   );
 }
